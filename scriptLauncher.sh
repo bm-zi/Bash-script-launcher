@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Author: Bahram Z.
+# Author: bm-zi.
 # script name: scriptLauncher.sh
 # This script lists scripts ( .sh files) from the current directory and
 # will show them in a menu, like a rotating list. Using keys and numbers,
